@@ -1,0 +1,16 @@
+div {
+	margin: 0 auto;
+	min-height: 10rem;
+	width: 100%;
+	max-width: 50rem;
+	padding: 4rem;
+	box-sizing: border-box;
+}
+
+.parent {
+	background-color: rgba( 0, 0, 0, 0.5 );
+}
+
+.child {
+	background-color: rgba( 0, 0, 0, 0.5 );
+}
